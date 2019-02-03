@@ -11,7 +11,7 @@ form = '''<!DOCTYPE html>
 <title>Bookmark Server</title>
 <form method="POST">
     <label>Long URI:
-        <input name="longuri" value="http://www.google.com">
+        <input name="longuri">
     </label>
     <br>
     <label>Short name:
